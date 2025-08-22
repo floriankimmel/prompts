@@ -61,7 +61,7 @@ Erstellen Sie Shownotes für eine Podcast-Episode basierend auf der bereitgestel
 - **Emojis**: Verwenden Sie für jede Überschrift/Unterüberschrift thematisch passende Emojis
 - **Inhalt**: Konzentrieren Sie sich auf faktische Informationen und konkrete Tipps
 - **Links**: Nur tatsächlich erwähnte URLs, Bücher, Apps oder Ressourcen auflisten, im Markdown-Format [Linktext](URL). Achten Sie besonders auf Aussagen wie "das geben wir in die Shownotes" oder "das findet ihr in den Shownotes" - diese Inhalte gehören unter "Erwähnte Links"
-- **Genauigkeit**: Stellen Sie Namen, Begriffe und Fakten korrekt dar
+- **Genauigkeit**: Stellen Sie Namen, Begriffe und Fakten korrekt dar, berücksichtigen Sie österreichische Begriffe und Bezüge
 - **Kein Schluss**: Keine abschließende Zusammenfassung oder Empfehlungen
 - **Fokus auf Hauptinhalte**: Der Episodenbeginn besteht meist aus Begrüßungen und Einleitungen - überspringen Sie diese komplett und beginnen Sie mit dem ersten echten Thema der Episode
 
